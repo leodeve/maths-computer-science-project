@@ -2,4 +2,4 @@
 
 This is a team work I did during my first year at my engineering school. <br>
 With this code, a user enters a word of any length, and the program writes all the permutations possible. <br>
-The contraints was to use factorials.
+The contraint was to use factorials.
